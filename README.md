@@ -3,8 +3,6 @@
 
 **EN:** openEHR templates for the Swedish RCC *harmonised cancer genomics dataset* (consultation version), built from international CKM archetypes, plus a working [EHR Slice](https://openehr.org/what-is-an-ehr-slice-and-why-is-it-relevant-to-the-ehds/) demo: FHIR profiles, terminology and bidirectional FHIRconnect mappings for the same data.
 
-**Official copy:** the consultation response refers to the Region Stockholm fork [regionstockholm/remissrunda-konfigurationsunderlag-cancergenomik](https://github.com/regionstockholm/remissrunda-konfigurationsunderlag-cancergenomik). This repository is its upstream.
-
 ![EHR Slice overview (Swedish labels)](docs/img/ehr-slice-illustration.png)
 
 ## What is here
